@@ -1,7 +1,148 @@
 .jumbotron {
-    background-image: url("../Images/Hero\ 3.png");
     background-size: cover;
     background-repeat: no-repeat;
     height: 500px;
-    justify-content: center;
+    text-align: center;
+    padding: 100px;
+    background-color: #E5CFC6;
   }
+
+  .header1 {
+    text-align: center;
+    font-family: "Raleway";
+    font-weight: 800px;
+    padding-top: 22px;
+    padding-bottom: 8px;
+    
+  }
+
+  h2 {
+    text-align: center;
+    font-size: medium;
+    font-weight: 500px;
+    font-family: "Open Sans", "Raleway";
+  }
+
+  .header3 {
+    text-align: center;
+    font-weight: 500px;
+    font-family: "Open Sans", "Raleway";
+    padding-top: 100px;
+  }
+  
+  p {
+    text-align: center;
+    font-family: "Open Sans", "Raleway";
+    font-weight: 600px;
+    padding-top: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+
+  .nav {
+    background-color: #01090e;
+  }
+
+  .nav-link {
+    color: white;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .carousel-inner {
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  #carouselExampleDark {
+    height: 600px;
+  }
+
+  .carousel {
+    height: 600px;
+    padding: auto;
+    text-align: center;
+  }
+
+  .carousel-item,  .carousel-indicator, .carousel-inner, .carousel, .carouselExampleDark  {
+    background-color:#E5CFC6;
+  }
+
+  .list-group {
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+    padding-top: 15px;
+  }
+
+  .researchabout {
+    font-family: "Open Sans";
+    text-align: center;
+    background-color: #202020;
+    padding: 50px;
+    color: white;
+    font-size: 20px;
+  }
+
+  .col {
+    font-family: "Open-Sans";
+    font-size: large;
+    padding: 30px;
+    margin: 0;
+  }
+
+  .align-self-start {
+    font-size: 30px;
+    margin: 0;
+  }
+
+  .align-self-center, .align-self.end{
+    margin: 0;
+  }
+
+  .container {
+    background-color: #15262D;
+    color: white;
+    margin: 0 !important;
+    padding: 150px;
+
+  }
+
+.step3 {
+  text-align: center;
+  background-color: #202020;
+  margin: 0;
+  padding: 80px;
+  color:white;
+}
+
+  .mr-3 {
+    height: 500px;
+  }
+
+.list-unstyled {
+  padding: 100px;
+  font-family: "Open Sans";
+  background-color: #15262D;
+  color: white;
+  margin: 0;
+}
+
+.media-body {
+  padding-top: 25px;
+  padding-bottom: 50px;
+}
+
+.finalabout {
+  text-align: center;
+  background-color: #202020;
+  margin: 0;
+  padding: 80px;
+  color:white;
+}
+
