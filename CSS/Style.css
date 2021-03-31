@@ -84,16 +84,9 @@
     font-family: "Open Sans";
     text-align: center;
     background-color: #202020;
-    padding: 50px;
+    padding: 100px;
     color: white;
     font-size: 20px;
-  }
-
-  .col {
-    font-family: "Open-Sans";
-    font-size: large;
-    padding: 30px;
-    margin: 0;
   }
 
   .align-self-start {
@@ -110,16 +103,35 @@
     color: white;
     margin: 0 !important;
     padding: 150px;
-
+  }
+  
+  .step3, .step2 {
+    text-align: center;
+    font-family: "Open-Sans";
+    background-color: #202020;
+    margin: 0;
+    padding: 100px;
+    color: white;
+    font-size: 20px;
   }
 
-.step3 {
-  text-align: center;
-  background-color: #202020;
-  margin: 0;
-  padding: 80px;
-  color:white;
+.step2 {
+  padding: 100px !important;
 }
+
+.row {
+  padding: 100px;
+  background-color: #15262D;
+  color: white;
+  font-size: 20px;
+  font-family: "Open-Sans";
+  margin: 0;
+}
+
+.col {
+  padding: 10px;
+}
+
 
   .mr-3 {
     height: 500px;
@@ -130,6 +142,7 @@
   font-family: "Open Sans";
   background-color: #15262D;
   color: white;
+  font-size: 18px;
   margin: 0;
 }
 
@@ -144,5 +157,6 @@
   margin: 0;
   padding: 80px;
   color:white;
+  font-size: 20px;
 }
 
